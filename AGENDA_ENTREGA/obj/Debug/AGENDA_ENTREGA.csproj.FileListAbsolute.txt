@@ -1,0 +1,10 @@
+C:\Users\CONSTRUGÁS\Documents\_dev\AGENDA_ENTREGA\AGENDA_ENTREGA\obj\Debug\AGENDA_ENTREGA.csproj.AssemblyReference.cache
+C:\Users\CONSTRUGÁS\Documents\_dev\AGENDA_ENTREGA\AGENDA_ENTREGA\obj\Debug\AGENDA_ENTREGA.Form1.resources
+C:\Users\CONSTRUGÁS\Documents\_dev\AGENDA_ENTREGA\AGENDA_ENTREGA\obj\Debug\AGENDA_ENTREGA.Properties.Resources.resources
+C:\Users\CONSTRUGÁS\Documents\_dev\AGENDA_ENTREGA\AGENDA_ENTREGA\obj\Debug\AGENDA_ENTREGA.csproj.GenerateResource.cache
+C:\Users\CONSTRUGÁS\Documents\_dev\AGENDA_ENTREGA\AGENDA_ENTREGA\obj\Debug\AGENDA_ENTREGA.csproj.CoreCompileInputs.cache
+C:\Users\CONSTRUGÁS\Documents\_dev\AGENDA_ENTREGA\AGENDA_ENTREGA\bin\Debug\AGENDA_ENTREGA.exe.config
+C:\Users\CONSTRUGÁS\Documents\_dev\AGENDA_ENTREGA\AGENDA_ENTREGA\bin\Debug\AGENDA_ENTREGA.exe
+C:\Users\CONSTRUGÁS\Documents\_dev\AGENDA_ENTREGA\AGENDA_ENTREGA\bin\Debug\AGENDA_ENTREGA.pdb
+C:\Users\CONSTRUGÁS\Documents\_dev\AGENDA_ENTREGA\AGENDA_ENTREGA\obj\Debug\AGENDA_ENTREGA.exe
+C:\Users\CONSTRUGÁS\Documents\_dev\AGENDA_ENTREGA\AGENDA_ENTREGA\obj\Debug\AGENDA_ENTREGA.pdb
